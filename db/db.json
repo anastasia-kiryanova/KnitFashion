@@ -1,0 +1,282 @@
+[
+  {
+    "id": "001",
+    "img": "img/alaska.jpg",
+    "name": "Пряжа Nako Alaska",
+    "label": "Новинка",
+    "description": "5% мохер, 15% шерсть, 80% акрил",
+    "price": "120",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "002",
+    "img": "img/alpaka-tweed.jpg",
+    "name": "Пряжа Alize Alpaka Tweed",
+    "label": "Бестселлер",
+    "description": "15% шерсть, 15% альпака, 5% вискоза, 65% акрил",
+    "price": "169",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "003",
+    "img": "img/angora-gold-batik.jpg",
+    "name": "Пряжа Alize Angora Gold Batik",
+    "label": "Бестселлер",
+    "description": "10% мохер, 10% шерсть, 80% акрил",
+    "price": "199",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "004",
+    "img": "img/angora-gold-star.jpg",
+    "name": "Пряжа Angora Gold Star",
+    "label": "Бестселлер",
+    "description": "13% пайетки, 20% шерсть, 67% полиэстер",
+    "price": "189",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "005",
+    "img": "img/angoralux.jpg",
+    "name": "Пряжа Nako Angora Lux",
+    "label": "Бестселлер",
+    "description": "10% мохер, 10% шерсть, 80% акрил",
+    "price": "319",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "006",
+    "img": "img/astra.jpg",
+    "name": "Пряжа Nako Astra",
+    "label": "",
+    "description": "100% акрил",
+    "price": "242",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "007",
+    "img": "img/bella.jpg",
+    "name": "Пряжа Alze Bella",
+    "label": "",
+    "description": "100% хлопок",
+    "price": "129",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "008",
+    "img": "img/cottongold.jpg",
+    "name": "Пряжа Alize Cotton Gold",
+    "label": "",
+    "description": "55% хлопок, 45% акрил",
+    "price": "153",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "009",
+    "img": "img/lanagold.png",
+    "name": "Пряжа Alize Lana Gold",
+    "label": "",
+    "description": "49% шерсть, 51% акрил",
+    "price": "119",
+    "category": "Пряжа",
+    "offer": true
+  },
+  {
+    "id": "010",
+    "img": "img/puffy-fine.png",
+    "name": "Пряжа Alize Puffy Fine",
+    "label": "Новинка",
+    "description": "100% микрополиэстер",
+    "price": "149",
+    "category": "Пряжа",
+    "offer": true
+  },
+  {
+    "id": "011",
+    "img": "img/puffy-fine2.png",
+    "name": "Пряжа Alize Puffy Fine",
+    "label": "Новинка",
+    "description": "100% микрополиэстер",
+    "price": "149",
+    "category": "Пряжа",
+    "offer": true
+  },
+  {
+    "id": "012",
+    "img": "img/puffy.png",
+    "name": "Пряжа Alize Puffy",
+    "label": "Новинка",
+    "description": "100% микрополиэстер",
+    "price": "169",
+    "category": "Пряжа",
+    "offer": true
+  },
+  {
+    "id": "013",
+    "img": "img/purewool.jpg",
+    "name": "Пряжа Nako Pure Wool",
+    "label": "Новинка",
+    "description": "100% шерсть",
+    "price": "199",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "014",
+    "img": "img/superlanaklas.jpg",
+    "name": "Пряжа Alize Superlana Klasik",
+    "label": "",
+    "description": "25% шерсть, 75% акрил",
+    "price": "149",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "015",
+    "img": "img/superlanamidi.png",
+    "name": "Пряжа Alize Superlana Midi",
+    "label": "",
+    "description": "25% шерсть, 75% акрил",
+    "price": "189",
+    "category": "Пряжа",
+    "offer": false
+  },
+  {
+    "id": "016",
+    "img": "img/addiclick.jpg",
+    "name": "Набор спиц Addi Click",
+    "label": "Новинка",
+    "description": "Lace Long/Basic/Mix",
+    "price": "11610",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "017",
+    "img": "img/hook1.jpg",
+    "name": "Крючок для вязания с ручкой",
+    "label": "",
+    "description": "3 мм",
+    "price": "168",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "018",
+    "img": "img/hook2.jpg",
+    "name": "Набор крючков для вязания",
+    "label": "",
+    "description": "В ассортименте",
+    "price": "950",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "019",
+    "img": "img/spokes1.png",
+    "name": "Спицы круговые ChiaoGoo Red Lace",
+    "label": "Бестселлер",
+    "description": "40 см",
+    "price": "975",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "020",
+    "img": "img/spokes2.jpg",
+    "name": "Спицы круговые ChiaoGoo Red Lace",
+    "label": "",
+    "description": "80 см",
+    "price": "1250",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "021",
+    "img": "img/spokes3.jpg",
+    "name": "Спицы деревянные круговые Lykke",
+    "label": "",
+    "description": "40 см",
+    "price": "695",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "022",
+    "img": "img/spokes4.jpg",
+    "name": "Спицы деревянные круговые Lykke",
+    "label": "",
+    "description": "80 см",
+    "price": "798",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "023",
+    "img": "img/spokes5.jpg",
+    "name": "Спицы разъёмные укороченные Lykke Indigo",
+    "label": "Новинка",
+    "description": "7 см",
+    "price": "217",
+    "category": "Инструменты",
+    "offer": false
+  },
+  {
+    "id": "024",
+    "img": "img/ruler.jpg",
+    "name": "Линейка для определения размера спиц",
+    "label": "",
+    "description": "В ассортименте",
+    "price": "206",
+    "category": "Аксессуары",
+    "offer": false
+  },
+  {
+    "id": "025",
+    "img": "img/tips.jpg",
+    "name": "Наконечники для спиц",
+    "label": "",
+    "description": "В ассортименте",
+    "price": "206",
+    "category": "Аксессуары",
+    "offer": false
+  },
+  {
+    "id": "026",
+    "img": "img/container.jpg",
+    "name": "Держатель для клубка пряжи",
+    "label": "",
+    "description": "В ассортименте",
+    "price": "355",
+    "category": "Аксессуары",
+    "offer": false
+  },
+  {
+    "id": "027",
+    "img": "img/markers.jpg",
+    "name": "Маркеры для петель",
+    "label": "",
+    "description": "В ассортименте",
+    "price": "55",
+    "category": "Аксессуары",
+    "offer": false
+  },
+  {
+    "id": "028",
+    "img": "img/pin.jpg",
+    "name": "Булавка петлесъемная",
+    "label": "",
+    "description": "В ассортименте",
+    "price": "129",
+    "category": "Аксессуары",
+    "offer": false
+  }
+]
